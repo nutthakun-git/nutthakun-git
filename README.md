@@ -1,6 +1,6 @@
 👋 Hi, I’m Nutthakun
 
-I am a Computer Engineering student at Bangkok University.
+  I am a Computer Engineering student at Bangkok University.
 
 👀 I’m interested in:
 - Embedded Systems
